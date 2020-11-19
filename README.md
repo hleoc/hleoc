@@ -20,10 +20,6 @@ Me considero empático, dedicado, com facilidade de aprendezado e que preza por 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Eu adoro me conectar com pessoas diferentes</b> então se você quiser dizer oi <b>ficarei feliz em conhecê-lo(la) mais!</b> :)</em>
 
+
 Você pode me encontrar em:
-<p align="left">
-  <a href="https://www.linkedin.com/in/hugo-leonardo-costa/"><img src="https://github.com/hleoc/hleoc/blob/master/linkedin-round.svg" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
-
-
-You can reach me on:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/hugo-leonardo-costa/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/hleoc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='30'>](https://t.me/Hugo_Leo)
