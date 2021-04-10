@@ -9,6 +9,8 @@ Me considero empático, dedicado, com facilidade de aprendezado e que preza por 
 
 
 #### Coding with:
+
+## Front-end:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-7159c1?style=flat-square&logo=react&logoColor=ffffff)
 ![Redux](https://img.shields.io/badge/-Redux-61DAFB?style=flat-square&logo=redux&logoColor=6a4daf)
