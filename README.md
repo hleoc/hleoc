@@ -19,15 +19,21 @@ Me considero empático, dedicado, com facilidade de aprendezado e que preza por 
 ![Jest](https://img.shields.io/badge/-Jest-%23F7DF1C?style=flat-square&logo=jest&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 
-## Back-end
+## Back-end:
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=00d632)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Sequelize](https://img.shields.io/badge/-Sequelize-black?style=flat-square&logo=Sequelize.js&logoColor=00d632)
 
 ## Editors and Operating Systems:
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000000?style=flat-square&logo=gnu-bash&logoColor=ffffff)
+
+## Metodologias Ágeis:
+![SCRUM](http://img.shields.io/badge/-Scrum-007ACC?style=flat-square&logo=scrum&logoColor=ffffff)
+![Kanban](https://img.shields.io/badge/-Kanban-%23F05032?style=flat-square&logo=kanban&logoColor=%23ffffff)
+<img src="https://img2.gratispng.com/20180804/aac/kisspng-logo-trello-image-computer-icons-font-resources-doris-barber-consulting-5b6551aa7c28e2.9135007515333666985086.jpg" alt="trello" width="90" height="30"/>
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Eu adoro me conectar com pessoas diferentes</b> então se você quiser dizer oi <b>ficarei feliz em conhecê-lo(la) mais!</b> :)</em>
