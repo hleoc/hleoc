@@ -24,6 +24,7 @@ Me considero empático, dedicado, com facilidade de aprendezado e que preza por 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript.js&logoColor=00d632)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgreSQL.js&logoColor=00d632)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-black?style=flat-square&logo=Sequelize.js&logoColor=00d632)
 
