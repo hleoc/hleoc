@@ -1,8 +1,8 @@
 **Olá, obrigado por visitar meu perfil.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">**
 
 Meu nome é [Hugo Costa](https://www.linkedin.com/in/hugo-leonardo-costa/), sou Formado em administração de Empresas e pós graduado em gerenciamentos de projetos.
-Nos últimos anos trabalhei como técnico de informática, o que me ensinou muito sobre a parte técnica, além de lidar com diversas culturas e personalidades, haja visto que entre as minhas atividades estava a de dar suporte a usuários "inloco" e via acesso remoto.
-Atualmente sou estudante de desenvolvimento de software, com foco em desenvolvimento web full stack.
+Nos últimos anos trabalhei como técnico de informática, o que me ensinou muito sobre instalação de servidores físicos Windows, redes, manutenção de computadores de forma geral e suporte a usuários, inloco e via acesso remoto.
+Recentemente migrei de carreira e agora sou Desenvolvedor Backend Júnior na empresa CreativeCode, onde presto serviços de desenvolvimento e análise de sistemas, utilizando as seguintes tecnologias e metodologias ágeis: Node.Js, TypeScript, TypeORM, TDD / DDD, Mongo, Postgree, Express, Sequelize, Docker, Design Pattern, Git, Gitflow, Scrum e ClickUP.
 Levei algum tempo para entender o quão privilegiado eu sou, e me sinto na obrigação de devolver para a sociedade de alguma forma e acredito que a tecnologia seja uma ótima ferramenta para alcançar este objetivo.
 Me considero empático, dedicado, com facilidade de aprendezado e que preza por um ambiente agradável e de respeito.
 
