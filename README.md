@@ -2,7 +2,7 @@
 
 Meu nome é [Hugo Costa](https://www.linkedin.com/in/hugo-leonardo-costa/), sou Formado em administração de Empresas e pós graduado em gerenciamentos de projetos.
 Nos últimos anos trabalhei como técnico de informática, o que me ensinou muito sobre instalação de servidores físicos Windows, redes, manutenção de computadores de forma geral e suporte a usuários, inloco e via acesso remoto.
-Recentemente migrei de carreira e agora sou Desenvolvedor Backend Júnior na empresa CreativeCode, onde presto serviços de desenvolvimento e análise de sistemas, utilizando as seguintes tecnologias e metodologias ágeis: Node.Js, TypeScript, TypeORM, TDD / DDD, Mongo, Postgree, Express, Sequelize, Docker, Design Pattern, Git, Gitflow, Scrum e ClickUP.
+Recentemente migrei de carreira e agora sou Analista de Programação Júnior V na empresa Info Sistemas, onde presto serviços de desenvolvimento e análise de sistemas, utilizando as seguintes tecnologias e metodologias ágeis: Node.Js, JavaScript, TypeScript, TDD / DDD, SQL Server, Express, Docker, Design Pattern, Git, GitHub, Scrum e Azure DevOps.
 Levei algum tempo para entender o quão privilegiado eu sou, e me sinto na obrigação de devolver para a sociedade de alguma forma e acredito que a tecnologia seja uma ótima ferramenta para alcançar este objetivo.
 Me considero empático, dedicado, com facilidade de aprendezado e que preza por um ambiente agradável e de respeito.
 
